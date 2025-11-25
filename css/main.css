@@ -69,3 +69,14 @@ footer {
   text-align: center;
   border-top: 3px solid #ff9800;
 }
+.card-img-top {
+  height: 250px;
+  width: 100%;
+  object-fit: cover;
+}
+
+.carousel-item img {
+  height: 350px;
+  width: 100%;
+  object-fit: cover;
+}
