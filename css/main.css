@@ -1,5 +1,5 @@
   body {
-  background-color: #cba2a2;
+  background-color: #ebf3f6;
   color: #000;
   font-family: Arial, sans-serif;
 }
@@ -7,7 +7,7 @@
 /* HEADER */
 header {
   background-color: #1f1f1f;
-  border-bottom: 3px solid #8dd4e4;
+  border-bottom: 3px solid #d1e7eb;
 }
 
 .navbar-brand {
